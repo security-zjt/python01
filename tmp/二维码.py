@@ -1,7 +1,7 @@
 # from MyQR import myqr    # 注意大小写
 # myqr.run(words='https://www.cnblogs.com/security-guard/')
 # # 如果为网站则会自动跳转，文本直接显示，不支持中文
-#
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ myqr
 
 from MyQR import myqr
 
